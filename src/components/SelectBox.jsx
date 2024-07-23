@@ -18,7 +18,7 @@ const SelectBox = ({ box, value, setValue, toggleBox, isOrigin, isCabin }) => {
   };
 
   const selectBoxStyle = {
-    backgroundColor: isCabin ? "#292b28" : "",
+    backgroundColor: isCabin ? "#242a20" : "",
     boxShadow: isCabin ? "none" : ""
   };
 
